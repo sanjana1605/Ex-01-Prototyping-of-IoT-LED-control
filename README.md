@@ -1,6 +1,6 @@
-### Name: Sanjana Sri N ###
-### Reg. no: 2305003007 ###
-# Exp No- 01 :LED CONTROL USING ARDUINO 
+### Name: Sanjana Sri N
+### Reg. no: 2305003007
+# EXP NO 01 - LED CONTROL USING ARDUINO 
 
 ## AIM 
 To design and implement an LED control system using an Arduino microcontroller and a push button, and to verify its operation through simulation using Proteus.
@@ -42,7 +42,7 @@ Jumber wire
     * **Button Released:** LED turns **OFF**.
 14. Verify that the LED responds correctly to every button press and record the simulation results.
 
-## Theory
+## THEORY
 
 An **Arduino UNO** is a microcontroller development board based on the **ATmega328P** microcontroller. It provides digital input/output pins that can be programmed to interface with external devices such as sensors, switches, and LEDs. In this experiment, a **push button** is used as a digital input device, while an **LED** serves as a digital output device.
 
@@ -88,7 +88,7 @@ Emergency Signaling System
 Weighing Machines
 
 
-## PROGRAM  ##
+## PROGRAM 
 ```
 /* USER CODE BEGIN Header */
 /**
@@ -300,8 +300,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ```
-## Output
+## OUTPUT
 <img width="1600" height="900" alt="WhatsApp Image 2026-08-14 at 9 06 40 AM" src="https://github.com/user-attachments/assets/5d3ca1a0-ce19-4618-9088-8ff8dc148c90" />
 
-## Result
+## RESULT
 Implementation an LED control system using an Arduino microcontroller and a push button has been successfully completed.
